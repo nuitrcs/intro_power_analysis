@@ -1,1 +1,1 @@
-# intro_power_analysis
+This repo hosts the materials for a workshop on Introduction to Statistical Power Analysis taught virtually by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/) in October 2024.
